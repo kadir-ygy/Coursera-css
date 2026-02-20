@@ -1,0 +1,36 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+
+header{
+    background-color: rgb(72, 126, 173);
+}
+
+nav{
+    background-color: rgb(243, 123, 2);
+}
+
+main{
+    background-color: darkcyan;
+    font-size: medium;
+}
+
+footer{
+    background-color: firebrick;
+}
+
+li{
+    display: inline-block;
+    width: 100px;
+}
+
+h1{
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+color: darkgrey;
+}
+
+p{
+    line-height: 1.5 ;
+}
